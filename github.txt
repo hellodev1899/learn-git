@@ -1,0 +1,3 @@
+we are learning git today :)
+still dont know how to git push.
+still needs to be added.
