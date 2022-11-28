@@ -1,3 +1,5 @@
 we are learning git today :)
 still dont know how to git push.
 still needs to be added.
+
+I already push the txt file but now this is the new version so i need to push it again to git repo.
